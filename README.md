@@ -22,7 +22,7 @@ Following the introduction of US tariffs on Canadian imports in early 2025 and t
 
 ## Analytical Framework
 
-This project works through a structured set of questions, moving from baseline trends to geographic breakdowns to event correlation and confounding factors. The questions cover year-over-year totals, measure type breakdowns, state and port-level geography, correlation with political events, exchange rate effects, and data quality. See `analysis.sql` for the full annotated query set.
+This project works through a structured set of questions, moving from baseline trends to geographic breakdowns to event correlation and confounding factors. The questions cover year-over-year totals, measure type breakdowns, state and port-level geography, correlation with political events, exchange rate effects, and data quality. See `border_crossings_analysis.sql` for the full annotated query set.
 
 ## Key Findings
 
