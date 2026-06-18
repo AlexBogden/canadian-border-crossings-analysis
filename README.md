@@ -2,7 +2,7 @@
 
 **Author**: Alex Bogden | [LinkedIn](https://www.linkedin.com/in/alex-bogden/)
 
-SQL analysis of Canadian land border crossing trends from 2024 to 2026, using publicly available data from the Bureau of Transportation Statistics (BTS).
+SQL and Python analysis of Canadian land border crossing trends from 2024 to 2026, using publicly available data from the Bureau of Transportation Statistics (BTS).
 
 ## Project Background
 
